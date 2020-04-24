@@ -1,3 +1,3 @@
-console.log('test1')
+console.log('test')
 var a = 1;
 console.log(a+1)
